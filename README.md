@@ -12,7 +12,7 @@ The code for the *link prediction* task in [1] can be found in the following rep
 
 ## Dependencies
 
-Important: keras 2.0 or higher is not supported as it breaks the Theano sparse matrix API. Tested with keras 1.2.1 and Theano 0.9.0, other versions might work as well.
+Important: Python 2.7 is required. keras 2.0 or higher is not supported as it breaks the Theano sparse matrix API. Tested with keras 1.2.1 and Theano 0.9.0, other versions might work as well.
 
   * Theano (0.9.0)
   * keras (1.2.1)
